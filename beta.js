@@ -16,7 +16,7 @@
         accesschar: "ß"
     },
     o : beta_output,
-    r : beta_run,
+    rr : beta_run,
     g : beta_global,
     s : beta_store,
     r : beta_retrieve,
