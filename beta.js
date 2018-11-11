@@ -29,7 +29,7 @@
     rc : beta_reassign_const,
     rv : beta_reassign_var,
     st : beta_strip,
-    rc : beta_removechar,
+    rcc : beta_removechar,
     d : beta_delete
  };
  var Beta = ß;
